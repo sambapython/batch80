@@ -1,0 +1,8 @@
+1. programing/scripting. 
+2. platform independent and portabale
+3. scalalble
+4. opensource
+5. easy to learn
+6. oops
+7. multi thhreading/processing
+8. automatic memory management.

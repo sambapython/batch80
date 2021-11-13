@@ -1,0 +1,7 @@
+command to run a python file
+python filename.py
+
+the above command has two internal steps. compilation and execution.
+
+command to compile the python file.
+python -m py_compile file_name.py
