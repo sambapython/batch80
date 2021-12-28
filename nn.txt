@@ -1,0 +1,8 @@
+Product, category, sales
+TemplateView
+template_name="base.html"
+
+create:
+Model
+fields
+success_url
